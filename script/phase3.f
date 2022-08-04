@@ -1,0 +1,4 @@
+verification/phase3_base/phase3_test_transaction.sv
+verification/phase3_base/phase3_transaction.sv
+verification/phase3_base/phase3_data_fifo.sv
+verification/phase3_base/phase3_test_fifo.sv
